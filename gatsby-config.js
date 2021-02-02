@@ -18,12 +18,6 @@ module.exports = {
       options: {},
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "aa",
-      },
-    },
-    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
