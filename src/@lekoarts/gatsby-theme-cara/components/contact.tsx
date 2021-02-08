@@ -33,7 +33,7 @@ export default function Contact() {
       <form
         name="contact"
         method="post"
-        action="/thanks/"
+        action="/"
         data-netlify="true"
         data-netlify-honeypot="bot-field"
         onSubmit={handleSubmit}
